@@ -1,0 +1,6 @@
+name: Insert Title
+markdown: redcarpet
+highlighter: pygments # or rouge or null
+exclude: ["node_modules", "gulpfile.js", "package.json"]
+excerpt_separator: <!--more-->
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
